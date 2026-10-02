@@ -26,13 +26,13 @@
         "live",
         "archive.org"
       ],
-      "updated_at": "2026-10-02",
       "name": "ornek-internet-archive",
       "display_name": "Internet Archive (Live Music Archive)",
-      "version": "1.0.0",
-      "description": "Live Music Archive'daki sanatçı izinli konser kayıtlarını FLAC olarak arar ve indirir",
+      "version": "1.1.0",
+      "description": "Live Music Archive'daki sanatçı izinli konser kayıtlarını FLAC olarak arar ve indirir. Konserin tamamını albüm olarak açar, archive.org linklerini tanır.",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-internet-archive.spotiflac-ext",
-      "sha256": "61cb560dd459e1287d0f708712387868ba204b203dace3252cdf818ebf221811"
+      "sha256": "22fb4d2a1c32f953b80fa6c98220197ff95f9f5d0dca67c3df3f45ff1faf545b",
+      "updated_at": "2026-10-02"
     },
     {
       "id": "ornek-jamendo",
@@ -42,13 +42,13 @@
         "flac",
         "creative-commons"
       ],
+      "updated_at": "2026-10-02",
       "name": "ornek-jamendo",
       "display_name": "Jamendo (Creative Commons)",
       "version": "1.1.1",
       "description": "Jamendo'daki Creative Commons lisanslı bağımsız müziği tür filtreleriyle arar ve indirir. Ücretsiz Jamendo client_id gerekir.",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-jamendo.spotiflac-ext",
-      "sha256": "55a4a88727d1124220d802760ab01408a370999b043aeec276e0407b4cfcda6c",
-      "updated_at": "2026-10-02"
+      "sha256": "55a4a88727d1124220d802760ab01408a370999b043aeec276e0407b4cfcda6c"
     },
     {
       "id": "ornek-wikimedia-commons",
