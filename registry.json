@@ -49,6 +49,20 @@
       "description": "Jamendo'daki Creative Commons lisansli bagimsiz muzigi arar ve indirir. Ucretsiz Jamendo client_id gerekir.",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-jamendo.spotiflac-ext",
       "sha256": "6d8586f24de8cc413ccee325e7b6b6f191ea55c8faefcb7f3971974765280e7e"
+    },
+    {
+      "id": "ornek-wikimedia-commons",
+      "category": "download",
+      "tags": [
+        "download"
+      ],
+      "name": "ornek-wikimedia-commons",
+      "display_name": "Wikimedia Commons (Klasik, kamu malı)",
+      "version": "1.0.0",
+      "description": "Wikimedia Commons'taki özgür lisanslı (kamu malı, CC0, CC BY/BY-SA) FLAC kayıtları arar ve indirir. Klasik müzik için.",
+      "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-wikimedia-commons.spotiflac-ext",
+      "sha256": "bfbae60ca7e58175801594a71d9f0e0c76751f5eb4900b560ed2952917a28ae7",
+      "updated_at": "2026-10-02"
     }
   ]
 }
