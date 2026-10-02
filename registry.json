@@ -28,10 +28,10 @@
       ],
       "name": "ornek-internet-archive",
       "display_name": "Internet Archive (Live Music Archive)",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "Live Music Archive'daki sanatçı izinli konser kayıtlarını FLAC olarak arar ve indirir. Konserin tamamını albüm olarak açar, archive.org linklerini tanır.",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-internet-archive.spotiflac-ext",
-      "sha256": "22fb4d2a1c32f953b80fa6c98220197ff95f9f5d0dca67c3df3f45ff1faf545b",
+      "sha256": "dddd95b754fc711279e0d37a4023c8da851874a6e52f6b60f1e876d6e72db1f1",
       "updated_at": "2026-10-02"
     },
     {
