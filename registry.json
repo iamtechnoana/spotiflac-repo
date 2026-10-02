@@ -44,10 +44,10 @@
       ],
       "name": "ornek-jamendo",
       "display_name": "Jamendo (Creative Commons)",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "Jamendo'daki Creative Commons lisanslı bağımsız müziği tür filtreleriyle arar ve indirir. Ücretsiz Jamendo client_id gerekir.",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-jamendo.spotiflac-ext",
-      "sha256": "36b3331f35bb900368c10ef781744f0d1746d7abcae4456a84824aba1c77c2c8",
+      "sha256": "55a4a88727d1124220d802760ab01408a370999b043aeec276e0407b4cfcda6c",
       "updated_at": "2026-10-02"
     },
     {
