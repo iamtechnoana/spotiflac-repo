@@ -42,13 +42,13 @@
         "flac",
         "creative-commons"
       ],
-      "updated_at": "2026-10-02",
       "name": "ornek-jamendo",
       "display_name": "Jamendo (Creative Commons)",
-      "version": "1.0.0",
-      "description": "Jamendo'daki Creative Commons lisansli bagimsiz muzigi arar ve indirir. Ucretsiz Jamendo client_id gerekir.",
+      "version": "1.1.0",
+      "description": "Jamendo'daki Creative Commons lisanslı bağımsız müziği tür filtreleriyle arar ve indirir. Ücretsiz Jamendo client_id gerekir.",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-jamendo.spotiflac-ext",
-      "sha256": "6d8586f24de8cc413ccee325e7b6b6f191ea55c8faefcb7f3971974765280e7e"
+      "sha256": "36b3331f35bb900368c10ef781744f0d1746d7abcae4456a84824aba1c77c2c8",
+      "updated_at": "2026-10-02"
     },
     {
       "id": "ornek-wikimedia-commons",
@@ -56,13 +56,13 @@
       "tags": [
         "download"
       ],
+      "updated_at": "2026-10-02",
       "name": "ornek-wikimedia-commons",
       "display_name": "Wikimedia Commons (Klasik, kamu malı)",
       "version": "1.0.0",
       "description": "Wikimedia Commons'taki özgür lisanslı (kamu malı, CC0, CC BY/BY-SA) FLAC kayıtları arar ve indirir. Klasik müzik için.",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-wikimedia-commons.spotiflac-ext",
-      "sha256": "bfbae60ca7e58175801594a71d9f0e0c76751f5eb4900b560ed2952917a28ae7",
-      "updated_at": "2026-10-02"
+      "sha256": "bfbae60ca7e58175801594a71d9f0e0c76751f5eb4900b560ed2952917a28ae7"
     }
   ]
 }
