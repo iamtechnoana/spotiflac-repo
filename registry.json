@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-02",
+  "extensions": [
+    {
+      "id": "ornek-lrclib",
+      "name": "ornek-lrclib",
+      "display_name": "Örnek LRCLib",
+      "version": "1.0.0",
+      "description": "LRCLib üzerinden senkronize şarkı sözü (test eklentisi)",
+      "category": "lyrics",
+      "tags": ["lyrics", "lrclib"],
+      "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-lrclib.spotiflac-ext",
+      "sha256": "1eb6064515bed6e9360e72e363092298d13d851ae4ae9982436a86697441f36c",
+      "updated_at": "2026-10-02"
+    }
+  ]
+}
