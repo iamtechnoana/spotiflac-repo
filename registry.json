@@ -4,39 +4,51 @@
   "extensions": [
     {
       "id": "ornek-lrclib",
+      "category": "lyrics",
+      "tags": [
+        "lyrics",
+        "lrclib"
+      ],
+      "updated_at": "2026-10-02",
       "name": "ornek-lrclib",
       "display_name": "Örnek LRCLib",
-      "version": "1.0.0",
-      "description": "LRCLib üzerinden senkronize şarkı sözü (test eklentisi)",
-      "category": "lyrics",
-      "tags": ["lyrics", "lrclib"],
+      "version": "1.1.0",
+      "description": "LRCLib üzerinden senkronize şarkı sözü (Türkçe destekli, akıllı eşleştirme)",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-lrclib.spotiflac-ext",
-      "sha256": "1eb6064515bed6e9360e72e363092298d13d851ae4ae9982436a86697441f36c",
-      "updated_at": "2026-10-02"
+      "sha256": "ca3cedcd7a74672f783bc37e09ca1600a104350e42a31c4ab444efe2930f676f"
     },
     {
       "id": "ornek-internet-archive",
+      "category": "download",
+      "tags": [
+        "download",
+        "flac",
+        "live",
+        "archive.org"
+      ],
+      "updated_at": "2026-10-02",
       "name": "ornek-internet-archive",
       "display_name": "Internet Archive (Live Music Archive)",
       "version": "1.0.0",
-      "description": "Sanatçı izinli konser kayıtlarını FLAC olarak arar ve indirir",
-      "category": "download",
-      "tags": ["download", "flac", "live", "archive.org"],
+      "description": "Live Music Archive'daki sanatçı izinli konser kayıtlarını FLAC olarak arar ve indirir",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-internet-archive.spotiflac-ext",
-      "sha256": "61cb560dd459e1287d0f708712387868ba204b203dace3252cdf818ebf221811",
-      "updated_at": "2026-10-02"
+      "sha256": "61cb560dd459e1287d0f708712387868ba204b203dace3252cdf818ebf221811"
     },
     {
       "id": "ornek-jamendo",
+      "category": "download",
+      "tags": [
+        "download",
+        "flac",
+        "creative-commons"
+      ],
+      "updated_at": "2026-10-02",
       "name": "ornek-jamendo",
       "display_name": "Jamendo (Creative Commons)",
       "version": "1.0.0",
-      "description": "Creative Commons lisanslı bağımsız müziği arar ve indirir. Ücretsiz Jamendo client_id gerekir.",
-      "category": "download",
-      "tags": ["download", "flac", "creative-commons"],
+      "description": "Jamendo'daki Creative Commons lisansli bagimsiz muzigi arar ve indirir. Ucretsiz Jamendo client_id gerekir.",
       "download_url": "https://raw.githubusercontent.com/iamtechnoana/spotiflac-repo/main/ornek-jamendo.spotiflac-ext",
-      "sha256": "6d8586f24de8cc413ccee325e7b6b6f191ea55c8faefcb7f3971974765280e7e",
-      "updated_at": "2026-10-02"
+      "sha256": "6d8586f24de8cc413ccee325e7b6b6f191ea55c8faefcb7f3971974765280e7e"
     }
   ]
 }
